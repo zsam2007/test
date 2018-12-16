@@ -11,7 +11,7 @@
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
-        "dangerColor": "#f1370d",
+        "dangerColor": "#e44d17",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -30,7 +30,7 @@
       "additionalSetColors": [
         "#000000",
         "#7e5b33",
-        "#f1370d"
+        "#e44d17"
       ]
     },
     "path": "@PROJECT_PATH@",
